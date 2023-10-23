@@ -1,4 +1,3 @@
-#Submission
 Our dataset features consists of three datatypes
 
 float
